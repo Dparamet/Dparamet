@@ -17,22 +17,25 @@ I love building things—whether it's inside a browser or on a microcontroller. 
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C++, SQL |
+| **Languages** | Python, JavaScript, Java, C , C++ (Arduino), SQL |
 | **Web Tools** | React, Next.js, HTML/CSS, Node.js |
-| **Hardware** | ESP32, Arduino, Sensors (DHT22, MPU-6050, RFID) |
+| **Hardware** | ESP32, Arduino |
 | **Design/Video** | Video Editing for TikTok/Social Media |
 
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Dparamet]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Dparamet]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[D-kub]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[D-kub]&layout=compact&theme=radical)
 
 ---
 
 ### ☕ Connect with me
-- 📈 **Interests:** Stock Market (Space, Energy, Tech sectors), Gaming (The Witcher 3 fan!)
+- 📈 **Interests:** Coding , Sloveproblem , Anime , Game , selfimprovment
 - 💬 Ask me about: **ESP32, Web Development, or cool AI tools**
-- 📫 Reach me: [ใส่ Link Facebook/IG หรือ Email ของนาย]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/d.paramet.2024/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/d_paramet/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dparamet)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dparamet1@email.com)
 
 *"Always learning, always questioning, always coding."* 🚀
