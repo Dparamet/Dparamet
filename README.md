@@ -1,7 +1,7 @@
 # Hi there, I'm D Dparamet 👋 🇹🇭
 
-### 🛠 Full-Stack Developer & IoT Enthusiast
-I love building things—whether it's inside a browser or on a microcontroller. Currently focusing on creating smart solutions and exploring the world of AI & Finance.
+### 🛠 Developer & IoT & AI
+"Hi, I'm D! 👋 A Newbie Player in the GitHub Open World. My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️. I might die 100 times to a single bug, but I only need to win once. Welcome to my campfire!
 
 ---
 
@@ -25,14 +25,16 @@ I love building things—whether it's inside a browser or on a microcontroller. 
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[D-kub]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[D-kub]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=D-kub&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kub&layout=compact&theme=radical)
 
 ---
 
 ### ☕ Connect with me
 - 📈 **Interests:** Coding , Sloveproblem , Anime , Game , selfimprovment
 - 💬 Ask me about: **ESP32, Web Development, or cool AI tools**
+
+---
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/d.paramet.2024/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/d_paramet/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dparamet)
