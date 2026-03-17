@@ -1,5 +1,5 @@
 # Hi there, I'm D Dparamet 👋 🇹🇭
-
+Bachelor of Computer Engineering
 ### 🛠 Developer & IoT & AI
 "Hi, I'm D! 👋 A Newbie Player in the GitHub Open World. My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️. I might die 100 times to a single bug, but I only need to win once. Welcome to my campfire!
 
