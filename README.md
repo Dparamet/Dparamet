@@ -1,4 +1,4 @@
-<div align="center">
+
 # Hi there, I'm D Dparamet 👋 🇹🇭
 Bachelor of Computer Engineering
 ## Portfolio Link https://portfolio-d-kub.vercel.app/
@@ -19,7 +19,7 @@ Bachelor of Computer Engineering
 - 🤖 **AI:** Experimenting with AI bots for gaming and automation.
 
 ---
-
+<div align="center">
 ### 🧰 Tech Stack
 
 
