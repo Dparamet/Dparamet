@@ -1,10 +1,14 @@
 # Hi there, I'm D Dparamet 👋 🇹🇭
 Bachelor of Computer Engineering
 ## Portfolio Link https://portfolio-d-kub.vercel.app/
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF77C8&center=true&vCenter=true&width=800&lines=Welcome+to+my+anime-themed+GitHub+Profile+%E2%9C%A8;Bachelor+Computer+Engineering;Web+Developer+%7C+IoT+Maker+%7C+AI+Explorer;Gamer;Weeb Anime;Building+projects+with+code+and+creativity+%E0%B8%85%5E%E2%80%A2%CC%81%E1%B4%97%E2%80%A2%CC%80%5E%E0%B8%85" alt="Typing SVG" />
 ### 🛠 Developer & IoT & AI
 "Hi, I'm D! 👋 A Newbie Player in the GitHub Open World. My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️. I might die 100 times to a single bug, but I only need to win once. Welcome to my campfire!
----
+
+
+<br>
 <img src="https://komarev.com/ghpvc/?username=Dparamet&color=ff69b4&style=for-the-badge" alt="profile views" />
+
 ---
 
 ### 🚀 What I'm working on
@@ -17,12 +21,20 @@ Bachelor of Computer Engineering
 
 ### 🧰 Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C , C++ (Arduino), SQL |
-| **Web Tools** | React, Next.js, HTML/CSS, Node.js |
-| **Hardware** | ESP32, Arduino |
-| **Design/Video** | Video Editing for TikTok/Social Media |
+
+<p>
+  <img src='https://skillicons.dev/icons?i=python,js,java,c,cpp,mysql' />
+</p>
+
+<p>
+  <img src='https://skillicons.dev/icons?i=react,nextjs,html,css,nodejs' />
+</p>
+
+<p>
+  <img src='https://skillicons.dev/icons?i=arduino,git,github,vscode,figma' />
+</p>
+
+<img src='https://img.shields.io/badge/Video_Editing-TikTok%2FSocial-FF0050?style=for-the-badge&logo=tiktok&logoColor=white' />
 
 ---
 
