@@ -3,15 +3,15 @@
 Bachelor of Computer Engineering
 
 ## Portfolio Link https://portfolio-d-kub.vercel.app/
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bachelor+of+Computer+Engineering;Web+Developer;IoT+Maker;AI+Explorer;Gamer+%26+Weeb+Anime;Building+projects+with+code+and+creativity;Jived+fox+nymph+grabs+quick+waltz)](https://git.io/typing-svg)
-
+</div>
 ### 🛠 Developer & IoT & AI
 "Hi, I'm D! 👋 A Newbie Player in the GitHub Open World. My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️. I might die 100 times to a single bug, but I only need to win once. Welcome to my campfire!
 
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Dparamet&color=ff69b4&style=for-the-badge" alt="profile views" />
-
+</div>
 ---
 
 ### 🚀 What I'm working on
