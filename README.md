@@ -4,7 +4,7 @@ Bachelor of Computer Engineering
 
 ## Portfolio Link https://portfolio-d-kub.vercel.app/
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF77C8&center=true&vCenter=true&width=800&lines=Welcome+to+my+anime-themed+GitHub+Profile+%E2%9C%A8;Bachelor+Computer+Engineering;Web+Developer+%7C+IoT+Maker+%7C+AI+Explorer;Gamer;Weeb Anime;Building+projects+with+code+and+creativity+%E0%B8%85%5E%E2%80%A2%CC%81%E1%B4%97%E2%80%A2%CC%80%5E%E0%B8%85" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bachelor+of+Computer+Engineering;Web+Developer;IoT+Maker;AI+Explorer;Gamer+%26+Weeb+Anime;Building+projects+with+code+and+creativity;Jived+fox+nymph+grabs+quick+waltz)](https://git.io/typing-svg)
 
 ### 🛠 Developer & IoT & AI
 "Hi, I'm D! 👋 A Newbie Player in the GitHub Open World. My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️. I might die 100 times to a single bug, but I only need to win once. Welcome to my campfire!
