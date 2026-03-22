@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there, I'm D Dparamet 👋 🇹🇭
 Bachelor of Computer Engineering
 ## Portfolio Link https://portfolio-d-kub.vercel.app/
@@ -55,3 +56,4 @@ Bachelor of Computer Engineering
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dparamet1@gmail.com)
 
 *"Always learning, always questioning, always coding."* 🚀
+</div>
