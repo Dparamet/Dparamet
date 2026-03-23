@@ -23,8 +23,9 @@ Bachelor of Computer Engineering
 
 ---
 <div align="center">
- ###🧰 Tech Stack
----
+  
+ 🧰 Tech Stack
+
 
 <p>
   <img src='https://skillicons.dev/icons?i=python,js,java,c,cpp,mysql' />
