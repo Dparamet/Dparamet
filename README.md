@@ -23,7 +23,7 @@ Bachelor of Computer Engineering
 
 ---
 <div align="center">
-### 🧰 Tech Stack
+ 🧰 Tech Stack
 
 
 <p>
