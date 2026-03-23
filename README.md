@@ -23,8 +23,8 @@ Bachelor of Computer Engineering
 
 ---
 <div align="center">
- 🧰 Tech Stack
-
+ ###🧰 Tech Stack
+---
 
 <p>
   <img src='https://skillicons.dev/icons?i=python,js,java,c,cpp,mysql' />
@@ -49,8 +49,8 @@ Bachelor of Computer Engineering
 ---
 
 ### ☕ Connect with me
-- 📈 **Interests:** Coding , Sloveproblem , Anime , Game , selfimprovment
-- 💬 Ask me about: **ESP32, Web Development, or cool AI tools**
+ 📈 **Interests:** Coding , Sloveproblem , Anime , Game , selfimprovment
+ 💬 Ask me about: **ESP32, Web Development, or cool AI tools**
 
 ---
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/d.paramet.2024/)
