@@ -29,12 +29,11 @@
 
 ### 📊 GitHub Activity & Stats
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dparamet&show_icons=true&theme=radical&rank_icon=github" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dparamet&layout=compact&theme=radical" height="150" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dparamet&theme=radical" alt="GitHub Streak" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dparamet&theme=dracula" width="100%" />
+  <br>
+
+  <img src="https://metrics.lecoq.io/Dparamet?template=classic&config.timezone=Asia%2FBangkok" width="100%" />
 </div>
 
 ---
