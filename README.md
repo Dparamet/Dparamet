@@ -1,63 +1,45 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=D%20Paramet&fontSize=90" />
+</div>
 
 # Hi there, I'm D Dparamet 👋 🇹🇭
-Bachelor of Computer Engineering
+`Bachelor of Computer Engineering`
 
-## Portfolio Link https://portfolio-d-kub.vercel.app/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Engineering;Web+Developer;IoT+Maker;AI+Explorer;Gamer+%26+Weeb+Anime)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bachelor+of+Computer+Engineering;Web+Developer;IoT+Maker;AI+Explorer;Gamer+%26+Weeb+Anime;Building+projects+with+code+and+creativity;Jived+fox+nymph+grabs+quick+waltz)](https://git.io/typing-svg)
+---
 
 ### 🛠 Developer & IoT & AI
-"Hi, I'm D! 👋 A Newbie Player in the GitHub Open World. My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️. I might die 100 times to a single bug, but I only need to win once. Welcome to my campfire!
+> "Hi, I'm D! 👋 My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️. I might die 100 times to a single bug, but I only need to win once."
 
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Dparamet&color=ff69b4&style=for-the-badge" alt="profile views" />
-  </div>
-
----
-
-### 🚀 What I'm working on
-- 🏠 **IoT & Smart Home:** Developing a security system with **ESP32** and various sensors.
-- ⌚ **Health Tech:** Building a Smart Watch for health monitoring (Thesis Project).
-- 💻 **Web Dev:** Crafting clean UI with **Next.js**, **React**, and **Tailwind CSS**.
-- 🤖 **AI:** Experimenting with AI bots for gaming and automation.
-
----
 <div align="center">
-  
- 🧰 Tech Stack
-
-
-<p>
-  <img src='https://skillicons.dev/icons?i=python,js,java,c,cpp,mysql' />
-</p>
-
-<p>
-  <img src='https://skillicons.dev/icons?i=react,nextjs,html,css,nodejs' />
-</p>
-
-<p>
-  <img src='https://skillicons.dev/icons?i=arduino,git,github,vscode,figma' />
-</p>
-
-<img src='https://img.shields.io/badge/Video_Editing-TikTok%2FSocial-FF0050?style=for-the-badge&logo=tiktok&logoColor=white' />
+  <img src="https://komarev.com/ghpvc/?username=Dparamet&color=ff69b4&style=for-the-badge" alt="profile views" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dparamet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dparamet&layout=compact&theme=radical)
+### 📊 GitHub Activity & Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dparamet&show_icons=true&theme=radical&rank_icon=github" alt="Dparamet's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dparamet&layout=compact&theme=radical" alt="Top Langs" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dparamet&theme=dracula" width="100%" />
+</div>
+
+---
+
+### 🧰 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,mysql,react,nextjs,nodejs,arduino,git,github,vscode,figma" />
+  <br>
+  <img src='https://img.shields.io/badge/Video_Editing-TikTok%2FSocial-FF0050?style=for-the-badge&logo=tiktok&logoColor=white' />
+</div>
 
 ---
 
 ### ☕ Connect with me
- 📈 **Interests:** Coding , Sloveproblem , Anime , Game , selfimprovment
- 💬 Ask me about: **ESP32, Web Development, or cool AI tools**
-
----
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/d.paramet.2024/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/d_paramet/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dparamet)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dparamet1@gmail.com)
-
-*"Always learning, always questioning, always coding."* 🚀
+<div align="center">
+  <a href="https://www.facebook.com/d.paramet.2024/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/d_paramet/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:Dparamet1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
