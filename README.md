@@ -15,7 +15,7 @@
 - 🎓 Bachelor of Computer Engineering
 - 🌱 Currently exploring **AI/ML** and build
 - 💻 Interested in **full-stack web development** and **embedded systems**
-- ⚔️ Achievement Hunter: **Sekiro 100%** ✅ Elden Ring** — *will be next* 🗡️
+- ⚔️ Achievement Hunter: **Sekiro 100%** ✅ **Darksoul III 100%✅** **Elden Ring** — *will be next* 🗡️
 - 🎌 Anime enjoyer — debugging is just my personal shonen arc
 
 ---
@@ -23,17 +23,17 @@
 ### 🧰 Tech Stack
 
 **Languages**
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" />
 </div>
 
 **Web & Database**
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=r
 </div>
 
 **Tools & Hardware**
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,figma" />
 </div>
 
