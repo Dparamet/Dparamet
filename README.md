@@ -22,50 +22,59 @@
 
 ---
 
-### 💼 Experience
 
-#### WordPress Developer & UI Designer — Freelance
-**March 2024**
+## 💼 Work Experience
 
-- Analyzed project requirements and collaborated directly with university faculty
-- Designed UI/UX prototypes and structured website content architecture
-- Developed custom WordPress solutions using **Elementor, HTML, and CSS**
-- Managed the project from initial concept through deployment
-- Successfully delivered the project on time
+### Hardware POS System — Freelance
+**Project Lead & Full-Stack Developer**  
+📅 **May 2026 - Present**
 
-🔗 Live Website: [eme.eng.rmuti.ac.th](https://eme.eng.rmuti.ac.th)
+- **Project Lead:** Architected the system, managed Git workflows, and coordinated a 5-member development team
+- **POS Core:** Built the cashier interface with barcode scanning and customer-facing displays
+- **Security & Data:** Implemented role-based staff authentication and offline-ready logging using **Supabase Row Level Security (RLS)**
 
-#### Part-Time Delivery Rider — 7-Eleven
-**March - May 2025**
-
-- Managed delivery schedules and consistently met strict deadlines
-- Communicated effectively with customers to ensure service quality
-- Supported branch operations and preliminary stock management
-- Developed strong time-management, teamwork, and accountability skills
+**Technologies:** `React` `Supabase` `Git` `GitHub` `Barcode Scanner` `Hardware Integration`
 
 ---
 
-### 🚀 Projects
+### Landing Page — TRP Powers Plus
+**Tech Lead & Full-Stack Developer (Freelance)**  
+📅 **May 2026 - July 2026**
 
-#### IoT Smart Warehouse Mini Project
+- **Tech Lead & Full-Stack:** Led the end-to-end development of a high-performance landing page integrated with a **Supabase CRM**
+- **Technical Leadership:** Architected scalable full-stack solutions and enforced Git workflows to maintain team code quality
+- **Strategic Optimization:** Translated Figma designs into functional features and conducted competitive research to improve conversion
 
-- Built a real-time warehouse monitoring and control system
-- Integrated **ESP32** with sensors and a **PHP/MySQL backend**
-- Developed Manual and Auto modes for warehouse management
-- Added API Key authentication and Rate Limiting
-- Protected the system against SQL Injection
-- Used **bcrypt hashing** for secure password storage
-- Integrated Telegram Bot API for emergency notifications
-- Implemented alarm-triggered alert notifications
+🔗 **Live Website:** [trppowersplus.com](https://trppowersplus.com)
 
-#### Weather Checker App
+**Technologies:** `Full-Stack Development` `Supabase` `Figma` `Git` `GitHub`
 
-- Built a responsive weather tracking application
-- Integrated the **OpenWeatherMap REST API**
-- Used asynchronous `async/await` logic for real-time data fetching
-- Added dynamic UI updates without page refresh
-- Supported responsive layouts for desktop and mobile
-- Included Dark/Light theme switching
+---
+
+### WordPress Developer & UI Designer — Freelance
+**Project Lead, Developer & UI Designer**  
+📅 **March 2025 - April 2025**
+
+- **Project Lead:** Analyzed requirements and collaborated directly with the Mechanical Engineering faculty
+- **UI/UX:** Designed website prototypes and structured the content architecture before development
+- **Development:** Developed custom WordPress solutions using **Elementor, HTML, and CSS**
+- **Result:** Successfully delivered the project on time and deployed the website to production
+
+🔗 **Live Website:** [eme.eng.rmuti.ac.th](https://eme.eng.rmuti.ac.th)
+
+**Technologies:** `WordPress` `Elementor` `HTML` `CSS` `UI/UX Design`
+
+---
+
+### 7-Eleven Delivery Rider — Part-Time
+**Delivery Rider & Operations Support**  
+📅 **March 2025 - May 2025**
+
+- **Time Management:** Efficiently managed delivery schedules to meet strict deadlines
+- **Customer Service:** Communicated effectively with diverse customers to ensure service quality
+- **Operations Support:** Assisted with branch operations and preliminary stock management
+
+**Skills:** `Time Management` `Customer Service` `Communication` `Teamwork` `Operations Support`
 
 ---
 
