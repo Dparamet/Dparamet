@@ -109,11 +109,17 @@
 ---
 ### 🎮 Gaming & Achievements
 
-> **Sekiro 100%** ✅ | **Dark Souls III 100%** ✅
-
 <div align="center">
-  <a href="https://steamcommunity.com/profiles/76561199097102156">
-    <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight" />
+  <!-- Sekiro 100% Showcase ✅ -->
+  <a href="https://steamcommunity.com/profiles/76561199097102156/stats/814380/achievements/">
+    <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight&showSummary=false&showGames=true&appIds=814380" />
+  </a>
+  
+  <br>
+  
+  <!-- Dark Souls III 100% Showcase ✅ -->
+  <a href="https://steamcommunity.com/profiles/76561199097102156/stats/374320/achievements/">
+    <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight&showSummary=false&showGames=true&appIds=374320" />
   </a>
 </div>
 
