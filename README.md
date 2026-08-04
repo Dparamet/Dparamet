@@ -112,7 +112,7 @@
 > **Sekiro 100%** ✅ | **Dark Souls III 100%** ✅
 
 <div align="center">
-  <a href="https://steamcommunity.com/profiles/YOUR_STEAM_ID">
+  <a href="https://steamcommunity.com/profiles/76561199097102156&">
     <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight" />
   </a>
 </div>
