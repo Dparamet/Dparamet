@@ -115,9 +115,7 @@
   <a href="https://steamcommunity.com/profiles/76561199097102156/stats/814380/achievements/">
     <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight&showSummary=false&showGames=true&appIds=814380" />
   </a>
-  
   <br><br>
-  
   <!-- Dark Souls III 100% Showcase ✅ -->
   <a href="https://steamcommunity.com/profiles/76561199097102156/stats/374320/achievements/">
     <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight&showSummary=false&showGames=true&appIds=374320" />
@@ -129,10 +127,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dparamet&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dparamet&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="165" />
   <img src="https://streak-stats.demolab.com?user=Dparamet&theme=tokyonight&hide_border=true" height="165" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dparamet&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dparamet&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" height="165" />
 </div>
 
 ---
