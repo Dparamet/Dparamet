@@ -107,6 +107,7 @@
 - Problem-Solving & Rapid Adaptability
 
 ---
+
 ### 🎮 Gaming & Achievements
 
 <div align="center">
@@ -115,13 +116,15 @@
     <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight&showSummary=false&showGames=true&appIds=814380" />
   </a>
   
-  <br>
+  <br><br>
   
   <!-- Dark Souls III 100% Showcase ✅ -->
   <a href="https://steamcommunity.com/profiles/76561199097102156/stats/374320/achievements/">
     <img src="https://steam-card-badge.vercel.app/api?steamId=76561199097102156&theme=tokyonight&showSummary=false&showGames=true&appIds=374320" />
   </a>
 </div>
+
+---
 
 ### 📊 GitHub Stats
 
