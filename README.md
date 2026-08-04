@@ -13,15 +13,13 @@
 
 > My Estus Flask is filled with Coffee ☕ and my weapon is my Keyboard ⌨️
 
-- 🎓 4th-year Bachelor of Engineering student in Computer Engineering
-- 💻 Passionate about Full-Stack Web Development and IoT Solutions
-- 🌱 Currently exploring **AI/ML**, Embedded Systems, and API Development
-- 🧠 Experienced in project management, requirement analysis, and deployment
+- 🎓 4th-year Bachelor of Engineering in Computer Engineering
+- 💻 Passionate about Full-Stack Web Development, API Architecture & IoT Solutions
+- 🌱 Currently exploring **AI/ML**, Embedded Systems, and Advanced Web Performance
 - ⚔️ Achievement Hunter: **Sekiro 100%** ✅ | **Dark Souls III 100%** ✅
 - 🎌 Anime enjoyer — debugging is my personal shonen arc
 
 ---
-
 
 ## 💼 Work Experience
 
@@ -29,11 +27,11 @@
 **Project Lead & Full-Stack Developer**  
 📅 **May 2026 - Present**
 
-- **Project Lead:** Architected the system, managed Git workflows, and coordinated a 5-member development team
-- **POS Core:** Built the cashier interface with barcode scanning and customer-facing displays
-- **Security & Data:** Implemented role-based staff authentication and offline-ready logging using **Supabase Row Level Security (RLS)**
+- **Project Lead:** Architected system topology, managed Git workflows, and led a 5-member development team
+- **POS Core:** Developed responsive cashier interface with barcode scanner integration and customer-facing displays
+- **Security & Data:** Implemented role-based access control and offline-ready logging using **Supabase Row Level Security (RLS)**
 
-**Technologies:** `React` `Supabase` `Git` `GitHub` `Barcode Scanner` `Hardware Integration`
+**Technologies:** `React` `Supabase` `Git` `GitHub` `Hardware Integration`
 
 ---
 
@@ -41,13 +39,13 @@
 **Tech Lead & Full-Stack Developer (Freelance)**  
 📅 **May 2026 - July 2026**
 
-- **Tech Lead & Full-Stack:** Led the end-to-end development of a high-performance landing page integrated with a **Supabase CRM**
-- **Technical Leadership:** Architected scalable full-stack solutions and enforced Git workflows to maintain team code quality
-- **Strategic Optimization:** Translated Figma designs into functional features and conducted competitive research to improve conversion
+- **Technical Leadership:** Designed scalable full-stack solution and enforced Git flow guidelines to maintain codebase quality
+- **CRM Integration:** Built a high-performance landing page seamlessly integrated with **Supabase CRM**
+- **UI/UX Optimization:** Converted Figma designs into functional components and optimized conversion pathways
 
 🔗 **Live Website:** [trppowersplus.com](https://landing-page-trp-powers-plus.vercel.app/)
 
-**Technologies:** `Full-Stack Development` `Supabase` `Figma` `Git` `GitHub`
+**Technologies:** `React` `Supabase` `Figma` `Git` `GitHub`
 
 ---
 
@@ -55,10 +53,9 @@
 **Project Lead, Developer & UI Designer**  
 📅 **March 2025 - April 2025**
 
-- **Project Lead:** Analyzed requirements and collaborated directly with the Mechanical Engineering faculty
-- **UI/UX:** Designed website prototypes and structured the content architecture before development
-- **Development:** Developed custom WordPress solutions using **Elementor, HTML, and CSS**
-- **Result:** Successfully delivered the project on time and deployed the website to production
+- **Client Collaboration:** Analyzed requirements with the Mechanical Engineering faculty to build custom site architecture
+- **Design & Dev:** Designed interactive prototypes and developed responsive layouts using **Elementor, HTML, and CSS**
+- **Deployment:** Managed production setup, server deployment, and handoff documentation
 
 🔗 **Live Website:** [eme.eng.rmuti.ac.th](https://eme.eng.rmuti.ac.th)
 
@@ -70,11 +67,11 @@
 **Delivery Rider & Operations Support**  
 📅 **March 2025 - May 2025**
 
-- **Time Management:** Efficiently managed delivery schedules to meet strict deadlines
-- **Customer Service:** Communicated effectively with diverse customers to ensure service quality
-- **Operations Support:** Assisted with branch operations and preliminary stock management
+- **Time Management & Logistics:** Efficiently handled high-volume dispatch operations under tight SLAs
+- **Customer Experience:** Delivered clear communication and service under fast-paced environments
+- **Store Operations:** Supported inventory checks and retail workflow management
 
-**Skills:** `Time Management` `Customer Service` `Communication` `Teamwork` `Operations Support`
+**Skills:** `Time Management` `Communication` `Problem Solving` `Operations`
 
 ---
 
@@ -104,14 +101,10 @@
 
 ### 🧠 Core Competencies
 
-- Leadership and Teamwork
-- Problem-Solving
-- End-to-End Development
-- Requirement Analysis
-- Project Management
-- Fast Learning and Adaptability
-- Time Management
-- Accountability
+- Technical Leadership & Project Management
+- Full-Stack Architecture & API Integration
+- Agile / Git Workflow & Team Collaboration
+- Problem-Solving & Rapid Adaptability
 
 ---
 
@@ -140,19 +133,15 @@
   <a href="mailto:Dparamet1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/Dparamet">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.facebook.com/d.paramet">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-
   <a href="https://www.instagram.com/d_paramet/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-
   <a href="https://portfolio-d-kub.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
