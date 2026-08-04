@@ -45,7 +45,7 @@
 - **Technical Leadership:** Architected scalable full-stack solutions and enforced Git workflows to maintain team code quality
 - **Strategic Optimization:** Translated Figma designs into functional features and conducted competitive research to improve conversion
 
-🔗 **Live Website:** [trppowersplus.com](https://trppowersplus.com)
+🔗 **Live Website:** [trppowersplus.com](https://landing-page-trp-powers-plus.vercel.app/)
 
 **Technologies:** `Full-Stack Development` `Supabase` `Figma` `Git` `GitHub`
 
