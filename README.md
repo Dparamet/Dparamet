@@ -23,6 +23,14 @@
 
 ## 💼 Work Experience
 
+### Computer Engineering RMUTI Website - Freelance
+**Project Lead & Front-end Engineer**
+📅 **Aug 2026 - Present**
+🔗 **Live Website:** [ecp.eng.rmuti.ac.th}(https://ecp.eng.rmuti.ac.th/)
+**Technologies:** `WordPress` `Elementor` `HTML` `CSS` `Design Feature and Architect` `UI/UX Design`
+
+
+
 ### Hardware POS System — Freelance
 **Project Lead & Full-Stack Developer**  
 📅 **May 2026 - Present**
