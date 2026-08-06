@@ -27,13 +27,15 @@
 ### 🚀 Computer Engineering RMUTI Website — Freelance  
 **Project Lead · Front-end Engineer · UI/UX Designer**  
 📅 Aug 2026 – Present  
-🔗 https://ecp.eng.rmuti.ac.th/  
+
 
 - **Ownership:** Led end-to-end development from requirement analysis → system design → deployment  
 - **Architecture:** Designed scalable website structure and content system for long-term maintainability  
 - **UI/UX Engineering:** Built responsive, user-centered interfaces using **Elementor, HTML, CSS**  
 - **Performance:** Improved navigation clarity and reduced content complexity across key pages  
-- **Deployment:** Managed hosting, production release, and documentation handoff  
+- **Deployment:** Managed hosting, production release, and documentation handoff
+
+🔗 https://ecp.eng.rmuti.ac.th/  
 
 **Tech:** `WordPress` `Elementor` `HTML` `CSS` `UI/UX Design` `System Design`
 
