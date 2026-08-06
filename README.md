@@ -35,7 +35,7 @@
 - **Performance:** Improved navigation clarity and reduced content complexity across key pages  
 - **Deployment:** Managed hosting, production release, and documentation handoff
 
-🔗 https://ecp.eng.rmuti.ac.th/  
+🔗 Live Website: https://ecp.eng.rmuti.ac.th/  
 
 **Tech:** `WordPress` `Elementor` `HTML` `CSS` `UI/UX Design` `System Design`
 
