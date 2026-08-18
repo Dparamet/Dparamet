@@ -60,7 +60,7 @@
 - **CRM Integration:** Built a high-performance landing page seamlessly integrated with **Supabase CRM**
 - **UI/UX Optimization:** Converted Figma designs into functional components and optimized conversion pathways
 
-🔗 **Live Website:** [trppowersplus.com](https://landing-page-trp-powers-plus.vercel.app/)
+🔗 **Live Website:** [trppowersplus.com](https://trppowersplus.com/)
 
 **Technologies:** `React` `Supabase` `Figma` `Git` `GitHub`
 
